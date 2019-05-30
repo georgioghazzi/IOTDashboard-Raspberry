@@ -1,0 +1,19 @@
+{
+  "name": "raspberry-pi",
+  "version": "1.0.0",
+  "description": "Handle IOT Dashboard Algorithm",
+  "main": "raspberryServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgioghazzi/IOTDashboard-Raspberry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgioghazzi/IOTDashboard-Raspberry/issues"
+  },
+  "homepage": "https://github.com/georgioghazzi/IOTDashboard-Raspberry#readme"
+}
